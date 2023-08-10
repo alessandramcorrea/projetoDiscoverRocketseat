@@ -1,6 +1,9 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
+  
+  Resultado do projeto em link - https://alessandramcorrea.github.io/projetoDiscoverRocketseat/ - Sugestão: usar o Edge como navegador para abrir - 
+  
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
@@ -32,6 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 ## 💻 Projeto
+
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
